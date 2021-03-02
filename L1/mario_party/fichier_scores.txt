@@ -1,0 +1,26 @@
+﻿  A : 1 étoiles, 8 pièces, 0 objet(s) au total, 6 case(s) parcourue(s), 0 victoire(s) aux mini-jeux, 
+1 tours joués 
+  B : 0 étoiles, 8 pièces, 0 objet(s) au total, 2 case(s) parcourue(s), 0 victoire(s) aux mini-jeux, 
+1 tours joués 
+Aest le gagnant
+ 
+  A : 1 étoiles, 5 pièces, 0 objet(s) au total, 11 case(s) parcourue(s), 0 victoire(s) aux mini-jeux, 
+4 tours joués 
+  B : 2 étoiles, 8 pièces, 1 objet(s) au total, 7 case(s) parcourue(s), 1 victoire(s) aux mini-jeux, 
+4 tours joués 
+Best le gagnant
+ 
+  A : 0 étoiles, 8 pièces, 1 objet(s) au total, 3 case(s) parcourue(s), 0 victoire(s) aux mini-jeux, 
+2 tours joués 
+  B : 0 étoiles, 8 pièces, 1 objet(s) au total, 8 case(s) parcourue(s), 0 victoire(s) aux mini-jeux, 
+2 tours joués 
+   : 1 étoiles, 8 pièces, 1 objet(s) au total, 11 case(s) parcourue(s), 0 victoire(s) aux mini-jeux, 
+2 tours joués 
+est le gagnant
+ 
+  A : 2 étoiles, 5 pièces, 0 objet(s) au total, 13 case(s) parcourue(s), 1 victoire(s) aux mini-jeux, 
+3 tours joués 
+  B : 0 étoiles, 2 pièces, 0 objet(s) au total, 12 case(s) parcourue(s), 0 victoire(s) aux mini-jeux, 
+3 tours joués 
+Aest le gagnant
+ 

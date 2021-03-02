@@ -1,0 +1,5 @@
+/bin/
+/docs/
+.project
+/.settings
+Main.jar 
