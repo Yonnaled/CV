@@ -1,0 +1,38 @@
+﻿Delannoy Vivian 41813317
+
+
+===================================================================================
+Ajout pour le git CV
+
+Projet en web qui consistait à faire des pages html avec 1 index et 3 pages.
+On ne devait pas encore utiliser de JS. C'était le premier projet en HTML et CSS.
+
+===================================================================================
+
+Sélécteurs css complexes:
+ - td:nth-child(2n),th:nth-last-child(2n+1)  utilisé pour mettre en couleur une colonne sur deux dans les tableaux.
+ - j'ai beaucoup utilisé le :hover qui je trouve rend la page plus interactive.
+ - a.plan-moulin::before   utilisé pour ajouter avant le lien de classe plan-moulin une image de doc pdf pour montrer 
+   que le texte est cliquable et qu'il envoie vers un pdf du plan des facs Lille-Moulins.
+ - img[src*=udl]   utilisé pour selectionner toutes les images dont la source (le nom) contient udl donc dans les divs
+contenant les liens vers les 3 sites de présentation.
+
+
+
+Media-queries utilisées et leur effet:
+       Les media queries utilisée portent uniquement sur l'impression, j'ai enlevé de nombreux éléments inutiles lors de 
+	l'impression, comme le menu, le footer, j'ai aussi rendu la police d'écriture plus petite et je l'ai uniformisée 
+	de couleur noir et j'ai aussi enlevé toutes les ombres.
+	Tout celà ayant pour but de rendre la fiche imprimée plus agréable.
+
+
+Points particuliers:
+- Création et utilisation d'un GIF pour rendre l'index plus animée car je n'ai pas trouvé comment faire ce même
+  genre d'effet avec les transitions CSS, pour ajouter plus de dynamisme sur la page index.
+- On peut cliquer sur les photos des campus et des plans (par exemple si l'on veut étudier le plan de plus près).
+- J'ai implanté une petite flèche en png en position fixed pour pouvoir remonter en haut de la page facilement.
+- J'ai créé un menu déroulant permettant de naviguer facilement dans les pages ou retourner au sommaire.
+- Mon but en faisant ce site était de le rendre le plus professionnel possible, sans trop en faire (ajouter des
+  transparences etc qui rendent à mon goût la page moins pro..) et se rapprocher de la forme habituelle d'un site
+  de l'UDL sans pour autant la copier et en amenant quelque chose qui je pense n'est pas proposé sur les sites de 
+  l'Université: présenter les différents campus pour permettre une meilleure insertion pour les nouveaux étudiants.

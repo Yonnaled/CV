@@ -1,0 +1,162 @@
+@media print {
+  .menu{
+    display: none;
+  }
+  footer{
+    display: none;
+  }
+  img{
+    width: 200px;
+    height: 100%;
+  }
+  *{
+    color: black;
+    box-shadow: none;
+    border: 0px;
+    text-shadow: none;
+  }
+  div p{
+    font-size: 12px;
+  }
+}
+figure a img{
+  height: 400px;
+}
+img:hover{
+  transform:scale(1.1);
+}
+.menu ol{
+  margin:0;
+  padding:0;
+  list-style-type:none;
+  text-align:center;
+ }
+.menu li,.Lemenu{
+  float:left;
+  margin:auto;
+  padding:0;
+  background-color: rgb(149,44,130);
+ }
+.menu li a,.Lemenu{
+  display:block;
+  width:260px;
+  color:white;
+  text-decoration:none;
+  padding:5px;
+ }
+ .menu li a{
+   text-align: left;
+   margin: 0px 10px;
+ }
+.menu li a:hover,.Lemenu:hover{
+  color: black;
+ }
+ .menu ol{
+  display:none;
+ }
+ .menu:hover ol{
+  display:block;
+ }
+.menu:hover ol li{
+  float:none;
+ }
+.menu{
+  position: absolute;
+  top:0.5%;left:2%
+}
+
+h1{
+  text-align:center;
+  font-size: 35px;
+}
+h2{
+  padding:0px 60px;
+  margin-top: 80px;
+  font-size: 30px;
+  padding-top:15px;
+}
+td:nth-child(2n),th:nth-last-child(2n+1){
+  background-color: rgb(149,44,130)
+}
+strong{
+  font-size: 35px;
+  font-weight: bold;
+}
+footer a{
+  text-decoration: none;
+  color: white;
+}
+footer{
+  color:white;
+  padding:25px 15px;
+}
+footer a:hover{
+  color:rgb(149,44,130);
+}
+footer a img{
+  width: 250px;
+  position: absolute;
+  right:2%;
+  z-index: 0
+}
+p{
+  margin: 0px 40px;
+  text-align:justify;
+}
+.informations,.Geo,.etudiants{
+  margin-left:30px;
+  margin-right: 30px;
+  padding-bottom: 25px;
+}
+.informations{
+  background-color: rgb(149,44,130);
+  color:white;
+  text-shadow: 0px 0px 5px black;
+  box-shadow: 0px 0px 5px black;
+}
+.Geo{
+  background-color: rgb(50,50,50);
+  box-shadow: 0px 0px 5px black;
+  color: white;
+}
+.etudiants h2{
+  border-top: solid 5px rgb(149,44,130)
+}
+table{
+  margin-left: 30px;
+  margin-right:30px;
+  border-collapse: collapse;
+}
+td,th{
+  padding: 5px;
+  text-align: center;
+  border: solid 2px black;
+}
+figure{
+  padding-top: 20px;
+  display:inline-block;
+  text-align: center;
+}
+figcaption{
+  position: relative;
+  top:20px;
+}
+.Geo{
+  text-align: center;
+}
+a.plan-moulin{
+  text-decoration: none;
+  color: white;
+}
+a.plan-moulin:hover{
+  color:rgb(149,44,130);
+}
+a.plan-moulin::before{
+    background-image: url('../images/pdf.png');
+    background-size: 25px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 30px;
+    height: 25px;
+    content:"";
+}

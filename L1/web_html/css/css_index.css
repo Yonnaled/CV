@@ -1,0 +1,75 @@
+.liens li:hover{
+  transform:scale(1.1);
+}
+.intro{
+  background-color: rgb(50,50,50);
+  color:white;
+}
+
+.h1 img{
+  width:100%;
+  filter: blur(2px);
+}
+h1{
+  background-color: rgba(0,0,0, 0.4);
+  color: white;
+  font-weight: bold;
+  border: 3px solid white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+  font-size: 30px;
+}
+h2{
+  color: rgba(169,54,130,1);
+  padding-left:10px;
+  font-size:25px;
+  font-weight: bold;
+}
+.intro{
+padding: 3px 15px;
+margin: 75px 0px;
+}
+.liens{
+  text-align: center;
+  padding:3px 15px;
+}
+img[src*=udl]{
+  width:250px;
+}
+.liens li{
+  display:inline-block;
+  vertical-align: middle;
+  background-color: rgb(149,44,130)
+}
+.liens li div{
+  width:300px;
+  height:400px;
+  text-align: center;
+}
+.liens li{
+  margin-right: 30px;
+  box-shadow: 0px 0px 5px;
+}
+div.liens a{
+  text-decoration: none;
+  color:white;
+}
+.l{
+  font-size: 35px;
+  position:relative;
+}
+.l1 .l{
+  top:12%
+}
+.l2 .l{
+  top:17%
+}
+.l3 .l{
+  top:7%
+}
